@@ -12,6 +12,7 @@ model regresi (kontinu).</p>
 
 <h2>Model Regresi yang Digunakan</h2>
 
-<b>Ada 2 model regresi yang saya gunakan untuk memprediksi hargajual rumah :</b>
+<b>Ada 3 model regresi yang saya gunakan untuk memprediksi hargajual rumah :</b>
 <li>RandomForestRegressor</li>
+<li>XGBRegressor</li>
 <li>DecisionTreeRegressor</li>
